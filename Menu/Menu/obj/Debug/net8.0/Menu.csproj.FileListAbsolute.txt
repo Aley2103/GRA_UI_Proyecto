@@ -1,0 +1,15 @@
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\bin\Debug\net8.0\Menu.exe
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\bin\Debug\net8.0\Menu.deps.json
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\bin\Debug\net8.0\Menu.runtimeconfig.json
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\bin\Debug\net8.0\Menu.dll
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\bin\Debug\net8.0\Menu.pdb
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.cs
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.sourcelink.json
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.dll
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\refint\Menu.dll
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.pdb
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\Menu.genruntimeconfig.cache
+C:\PROYECTOS\GRA\GRA_UI_Proyecto\Menu\Menu\obj\Debug\net8.0\ref\Menu.dll
